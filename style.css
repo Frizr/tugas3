@@ -1,0 +1,21 @@
+/* Terapkan font sans-serif untuk seluruh teks */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e1cea5; /* warna lembut pastel hijau-biru */
+  margin: 40px;
+  line-height: 1.6;
+}
+
+/* Ubah warna teks heading menjadi biru */
+h1, h2 {
+  color: #0077cc;
+  text-align: center;
+}
+
+/* Atur jarak antar paragraf menggunakan margin */
+p {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 17px;
+  text-align: justify;
+}
